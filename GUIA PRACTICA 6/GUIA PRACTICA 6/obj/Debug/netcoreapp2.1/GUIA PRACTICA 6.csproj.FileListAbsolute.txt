@@ -1,0 +1,11 @@
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\bin\Debug\netcoreapp2.1\GUIA PRACTICA 6.deps.json
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\bin\Debug\netcoreapp2.1\GUIA PRACTICA 6.runtimeconfig.json
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\bin\Debug\netcoreapp2.1\GUIA PRACTICA 6.runtimeconfig.dev.json
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\bin\Debug\netcoreapp2.1\GUIA PRACTICA 6.dll
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\bin\Debug\netcoreapp2.1\GUIA PRACTICA 6.pdb
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\obj\Debug\netcoreapp2.1\GUIA PRACTICA 6.csprojAssemblyReference.cache
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\obj\Debug\netcoreapp2.1\GUIA PRACTICA 6.csproj.CoreCompileInputs.cache
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\obj\Debug\netcoreapp2.1\GUIA PRACTICA 6.AssemblyInfoInputs.cache
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\obj\Debug\netcoreapp2.1\GUIA PRACTICA 6.AssemblyInfo.cs
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\obj\Debug\netcoreapp2.1\GUIA PRACTICA 6.dll
+C:\Users\andy roldan\source\repos\GUIA PRACTICA 6\GUIA PRACTICA 6\obj\Debug\netcoreapp2.1\GUIA PRACTICA 6.pdb
